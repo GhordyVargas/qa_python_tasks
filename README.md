@@ -1,6 +1,6 @@
 # QA Python Tasks - Selenium Fundamentals
 
-## ¿Qué·´ es esto?
+## ¿Qué es esto?
 Esta carpeta contiene ejercicios practicos de automatizacion web con Selenium y Python, disenados para dominar los fundamentos de la interaccion con elementos web.
 
 ## Producto / Funcionalidad bajo prueba
